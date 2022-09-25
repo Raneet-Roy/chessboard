@@ -18,10 +18,7 @@
 // Step 14: To undergo Step 13, we need to use grids in css and mention their aquired heights and widths.
 // Step 15: We dont need to apply random values for width and height. just use repeat(8, 1fr) to have 8 equal columns which will 
 //         automatically have their own specific widths and heights.        
-//(50 row,70 cols)
-//no css
-//when a box is clicked , the bg color will change.
-//use const in place of var.
+
 const container = document.getElementById('container');
 
 for(i = 1 ; i < 9 ; i++){
