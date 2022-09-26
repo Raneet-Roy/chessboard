@@ -22,9 +22,9 @@
 const container = document.getElementById('container');
 
 for(i = 1 ; i < 9 ; i++){
-    var box1 = document.createElement('div');//onclick beside box 1 
+    var box1 = document.createElement('div'); 
     if(i % 2 == 0){
-        box1.style.backgroundColor='black';// add event listener in place of black
+        box1.style.backgroundColor='black';
     }
     else{
         box1.style.backgroundColor='white';
