@@ -4,8 +4,7 @@ body {
 .box {
     height: 30px;
     width: 30px;
-    border: 1.5px solid grey;
-    border-style: inset;
+    border-style: outset ;
 }
 
 .blackbox {
