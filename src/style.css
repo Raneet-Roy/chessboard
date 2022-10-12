@@ -7,11 +7,9 @@ body {
     width: 30px;
     border-style: outset ;
 }
-
 .blackbox {
     background-color: black;
 }
-
 .whitebox {
     background-color: white;
 }
